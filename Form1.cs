@@ -22,5 +22,11 @@ namespace Csharp_Projects
             lbLogIn.ForeColor = Color.ForestGreen;
             lbLogIn.Text = "...Loged In...";
         }
+
+        private void btnShowName_Click(object sender, EventArgs e)
+        {
+            string Name = txtName.Text;
+            lbName.Text = "Hello " + Name;
+        }
     }
 }
