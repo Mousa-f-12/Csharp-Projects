@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../Log-In-User-Info/Log-In-User-Info.csproj" />
-  <Project Path="Csharp-Projects.csproj" />
+  <Project Path="../Log-In-User-Info/Log-In-User-Info.csproj" Id="7f3217c0-30df-4b10-a9e3-712b332fc8aa" />
+  <Project Path="Csharp-Projects.csproj" Id="a32fb677-4d2b-4d21-b8fb-74124f01b8a2" />
 </Solution>

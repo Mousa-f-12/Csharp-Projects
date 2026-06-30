@@ -16,5 +16,11 @@ namespace Csharp_Projects
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            lbLogIn.ForeColor = Color.ForestGreen;
+            lbLogIn.Text = "...Loged In...";
+        }
     }
 }
